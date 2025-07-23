@@ -37,10 +37,10 @@ The dashboard brings together various facets of ER data into a unified, easy to 
 
 Tableau is a powerful and widely used data visualization tool that helps people see and understand their data. Here are 5 key points about Tableau:
 
-1.  **Intuitive Drag-and-Drop Interface:** Tableau's user friendly interface allows users to create complex visualizations without writing code.
+1.  **Intuitive Drag and Drop Interface:** Tableau's user friendly interface allows users to create complex visualizations without writing code.
 2.  **Connects to Various Data Sources:** It can connect to a wide array of data sources, from spreadsheets to databases and cloud services.
 3.  **Interactive Dashboards:** Tableau excels at creating dynamic and interactive dashboards that allow users to explore data in depth.
-4.  **Real-time Data Capabilities:** It supports live connections to data, enabling real time monitoring and analysis.
+4.  **Real time Data Capabilities:** It supports live connections to data, enabling real time monitoring and analysis.
 5.  **Strong Community and Resources:** Tableau has a large and active community, offering extensive learning resources and support.
 
 ### How to Use This Tableau Dashboard
