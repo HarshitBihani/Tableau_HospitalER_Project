@@ -28,8 +28,7 @@ This interactive Tableau dashboard provides a comprehensive analysis of Emergenc
 
 The dashboard brings together various facets of ER data into a unified, easy to understand view, enabling data driven decision making for resource allocation and service improvement.
 
-![Emergency Room Dashboard](ER%20Dashboard.png)
-*(Click the image to view a larger version if your GitHub client supports it, or download the image.)*
+![Netflix Logo](ER DashBoard.png)
 
 ## About Tableau and How to Use
 
