@@ -1,4 +1,4 @@
-# 🏥 Harshit Bihani Emergency Room Visits Dashboard
+# 🏥 Hospital Emergency Room Visits Tableau Dashboard
 
 This repository contains the Tableau dashboard, visualization, and data analysis project focused on Emergency Room (ER) visits.
 
