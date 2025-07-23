@@ -46,7 +46,7 @@ Tableau is a powerful and widely used data visualization tool that helps people 
 
 To effectively use and explore this ER Visits Dashboard, follow these  steps:
 
-1.Download and install Tableau Desktop
-2.Download the .twbx file for any project
-3.Open the file in Tableau to interact with the visualizations
-4.Connect to your own data sources to create custom dashboards
+1.Download and install Tableau Desktop.
+2.Download the .twbx file for any project.
+3.Open the file in Tableau to interact with the visualizations.
+4.Connect to your own data sources to create custom dashboards.
